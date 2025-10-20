@@ -1125,9 +1125,6 @@ while (( "$#" )); do
 done
 set +x
 ```
-## OUTPUT
- ./argshift.sh 1 2 3
- <img width="927" height="523" alt="image" src="https://github.com/user-attachments/assets/7247187d-9495-4aac-b269-bd354802c931" />
 
  
 cat > nc.awk
